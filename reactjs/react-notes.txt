@@ -1,0 +1,17 @@
+react is a frontend framework
+it is used to create spa(single page application)
+React js is built by facebook
+
+###################### install react ####################################
+npm i -g create-react-app
+npx create-react-app <proj name>
+npm start
+
+npx=>node package execute
+
+####################### props ###################################
+HTML Tags = React Component
+props = properties = attributes
+
+####################### props drilling ########################
+pass a props from one component to another component 

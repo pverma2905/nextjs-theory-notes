@@ -1,0 +1,18 @@
+########url segment############
+localhost:3000/abc/xyz/pqr
+
+abc-> url Segment 1
+xyz-> url Segment 2
+pqr-> url segment 3
+
+########### components ###############
+components are  basic building block of spa application
+
+########### type of component in react ###########
+1)functional component
+2)class component 
+
+
+######### type of component i next js  ##############
+1)server component
+2)client component-"use client"

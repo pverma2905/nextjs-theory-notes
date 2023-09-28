@@ -1,0 +1,15 @@
+1)there are two way to export 
+=>default export
+export default DESCRIPTION;
+
+=>named export 
+export {TITLE}
+module.exports = {TITLE}
+
+
+2)import
+import  {TITLE}  from '../helper/constant'
+import DESCRIPTION from '../helper/constant'
+
+3)default import we can import any name
+ but not in name import

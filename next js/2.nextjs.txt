@@ -1,0 +1,15 @@
+############## go to older version #######################
+
+npx create-next-app@10.0.5 nxt1
+_app.js is the entrypoint
+../root dir it follow 
+### routing=>page router
+landing page->index.js
+
+##################### go to new version #######################
+npx create-next-app@latest 15sept2023_nxt1
+layout.js is the entrypoint
+@ follow root dir
+
+### routing=>app router
+landing page->page.js

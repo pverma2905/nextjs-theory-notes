@@ -1,0 +1,30 @@
+next js is build by vercel
+react js is build facebook
+react js size is 289 mb
+
+next js is frontend java script framework
+next js is used to create a spa
+next js is just 246 mb
+net js follow both class and function component
+
+
+########################### installation ####################################
+
+npm i -g create-next-app
+
+npx create-next-app@latest 15sept2023_nxt1
+
+cd <proj-name>
+
+code .
+
+npm run dev
+npx next
+
+
+#npx next --version
+13.5.3
+13->major 
+5->minor
+3patch
+

@@ -1,0 +1,15 @@
+ReactJs
+	1. Based on Components
+	2. Many Component injected in One Page (index.html)
+	3. Entry File is src/index.js
+			App.js is the first component that is injected in /src/index.js
+	4. React deals with components
+	5. Routing System is achieved with react-router-dom which is a 3rd party library
+
+NextJs (ReactJs Framework )
+	1. Based on Pages
+	2. Many Pages injected in One Component (_app.js) 
+	3. Entry File is pages/_app.js
+			index.js is the first page that is injected in /pages/_app.js
+	4. NextJs deals with pages
+	5. Build-in Routing System with page folder structure (PageRouter / AppRouter)
